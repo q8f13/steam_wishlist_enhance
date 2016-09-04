@@ -19,7 +19,6 @@ function moveDiscountItemUp() {
 	first.before(discountList);
 	// highlight them
 	discountList.css('border', '3px solid #4c6b22');
-	);
 }
 
 main();
